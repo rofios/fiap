@@ -1,0 +1,26 @@
+body {
+        margin: 0px;
+		background-image: url("../imagens/background-1.jpg");
+    	background-repeat: no-repeat;
+    	background-attachment: fixed;
+    }
+    .container {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center
+    }
+    .box {
+        width: 320px;
+        height: 568px;
+        background-image: url("../imagens/background-2.png");
+    }
+	.row{
+	
+	margin-bottom: 20px;
+	
+}
+
+
